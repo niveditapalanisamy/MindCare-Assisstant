@@ -1,0 +1,11 @@
+open router:
+apikey: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
+
+
+
+open router - > single market place hosts latest model in market in all llms.
+->multimodel checking for evaluation pipeline
+
+-->free models
+
+openai subscription ->openai
